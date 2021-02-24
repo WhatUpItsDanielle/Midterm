@@ -29,3 +29,11 @@ a:visited{
 h1{
     font-family:"Indie Flower", cursive;
 }
+
+.description{
+    background-color:#C9ADA7;
+}
+
+section{
+    background-color: #C9ADA7;
+}
